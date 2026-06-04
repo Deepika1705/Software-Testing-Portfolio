@@ -69,10 +69,7 @@ https://www.saucedemo.com/
 * Automated add-to-cart and remove-from-cart functionalities.
 * Verified cart and checkout workflow.
 * Performed UI validations for product details and buttons.
-* Implemented Page Object Model (POM) framework design.
-* Added reusable utility methods and screenshot capture on test failure.
 * Generated execution reports using TestNG.
-
 
 ---
 
