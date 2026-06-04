@@ -1,4 +1,4 @@
-# Automation Testing and Performance Testing Assignment
+# Manual Testing Automation Testing and Performance Testing Assignment
 
 ## Candidate Name
 
@@ -11,7 +11,7 @@ DEEPIKA J
 This project covers:
 
 * Manual testing
-* API testing
+* Automation testing
 * Performance testing using Apache JMeter
 * Positive and negative test scenarios
 * Test execution and reporting
@@ -27,7 +27,6 @@ https://reqres.in/api/users?page=1
 | Tool / Technology     | Purpose                        |
 | --------------------- | ------------------------------ |
 | Apache JMeter         | Performance Testing            |
-| Postman               | API Testing                    |
 | Java                  | Automation Support             |
 | Selenium WebDriver    | UI Automation                  |
 | TestNG                | Test Execution Framework       |
@@ -55,12 +54,25 @@ https://reqres.in/api/users?page=1
 
 ---
 
-## API Testing
+## Automation Testing
 
-* Validated ReqRes API responses
-* Tested API using valid and invalid inputs
-* Verified status codes and response body
-* Handled API authentication using x-api-key header
+Automation Testing – SauceDemo Website
+
+Website Tested:
+
+https://www.saucedemo.com/
+
+## Tasks Completed
+
+* Automated end-to-end testing for SauceDemo website using Selenium WebDriver and TestNG.
+* Implemented login validation for valid and invalid credentials.
+* Automated add-to-cart and remove-from-cart functionalities.
+* Verified cart and checkout workflow.
+* Performed UI validations for product details and buttons.
+* Implemented Page Object Model (POM) framework design.
+* Added reusable utility methods and screenshot capture on test failure.
+* Generated execution reports using TestNG.
+
 
 ---
 
