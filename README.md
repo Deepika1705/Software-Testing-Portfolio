@@ -1,9 +1,4 @@
 # Software-Testing-Portfolio
-## Candidate Name
-
-DEEPIKA J
-
----
 
 # Project Overview
 
