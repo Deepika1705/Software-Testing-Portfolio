@@ -1,5 +1,4 @@
-# Manual Testing Automation Testing and Performance Testing Assignment
-
+# Software-Testing-Portfolio
 ## Candidate Name
 
 DEEPIKA J
